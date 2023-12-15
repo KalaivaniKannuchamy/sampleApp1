@@ -1,0 +1,23 @@
+export default {
+    userAccessToken: "user_access_tokens",
+    SignUpBasic: "signup_basic",
+    contact_info: 'contact_info',
+    address_info: 'address_info',
+    tax_info: 'tax_info',
+    bank_info  :'bank_info',
+    dcouments_info:'dcouments_info',
+    user_name:'user_name',
+    user_password:'user_password',
+    is_Login:"is_login",
+    screenName:"screenName",
+    headerDetail:"headerDetail",
+    purchase_header:"purchase_header",
+    localData:"localData",
+    quotaion:"quotaion",
+    query:"query",
+    rfp_id:"rfp_id",
+    dcouments_idKeys : 'dcouments_idKeys',
+    is_selection:'is_selection',
+    is_from_Link:'is_from_Link',
+    token :'token'
+}
